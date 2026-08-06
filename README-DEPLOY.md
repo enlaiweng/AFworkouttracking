@@ -9,6 +9,7 @@ This is the production version of the team workout tracker: a static React app o
 - The server validates everything itself: roster allowlist, activity types, the 24-hour cap, the future-date guard. It also recomputes points from minutes, so the phone's math is a preview, not the record.
 - "This device remembers you" now uses localStorage, which is the normal tool for that job on a real website.
 - All accessibility work carried over unchanged.
+  
 
 ## Prerequisites
 
