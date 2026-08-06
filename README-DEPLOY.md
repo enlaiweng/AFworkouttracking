@@ -10,6 +10,7 @@ This is the production version of the team workout tracker: a static React app o
 - "This device remembers you" now uses localStorage, which is the normal tool for that job on a real website.
 - All accessibility work carried over unchanged.
 - Added and fixed wrangler.toml
+- Added worker.js
   
 
 ## Prerequisites
