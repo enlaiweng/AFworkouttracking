@@ -5,4 +5,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "afc-challenge"
-database_id = "5152dce6-82e6-4eb6-8e3a-d623055d1b41
+database_id = "5152dce6-82e6-4eb6-8e3a-d623055d1b41"
